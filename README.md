@@ -19,10 +19,10 @@ In the App, users can read album reviews from [Jazztips](http://jazzti.ps), list
 
 #### Can I install the app through the App finder?
 
-No, you cannot. Right after this app was submitted, [Spotify announced](http://devnews.spotify.com/2014/03/24/closure-of-spotify-apps-submissions/) that they will not be accepting any new submissions for Spotify apps for release in the App Finder.
+No, sorry. Right after this app was submitted, [Spotify announced](http://devnews.spotify.com/2014/03/24/closure-of-spotify-apps-submissions/) that they will not be accepting any new submissions for Spotify apps for release in the App Finder.
 
 Maybe there will be some kind of new Jazztips app in the future. Meanwhile, check out [some great music]([Jazztips](http://jazzti.ps)).
 
-## More information
+## Music please!
 
  * [Jazztips](http://jazzti.ps)
