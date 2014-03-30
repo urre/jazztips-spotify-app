@@ -2,7 +2,7 @@
 
 This is the Jazztips Spotify App that never got released.
 
-In the App, users can read album reviews from [Jazztips](http://jazzti.ps), listen to those great jazz albums and save the music as playlists.
+In the (very simple) App, users can listen to the 10 latest "album reviews" from [Jazztips](http://jazzti.ps), listen to those great jazz albums and save the music as playlists.
 
 ![App home screen](https://dl.dropboxusercontent.com/u/1162759/jazztips-spotify-app-mockup.jpg)
 
