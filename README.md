@@ -8,8 +8,6 @@ In the (very simple) App, users can listen to the 10 latest "album reviews" from
 
 ## Installation
 
-***
-
  1. Sign up for a [developer account on Spotify](https://developer.spotify.com/technologies/apps/#developer-account) by logging in and agreeing to the [terms of use](https://developer.spotify.com/technologies/apps/terms-of-use/).
  2. Create the Spotify folder if it doesn't exist already: `~/Spotify` (Mac OS X and Linux) or `My Documents\Spotify` (Windows).
  3. Open the Spotify folder.
@@ -27,6 +25,8 @@ No, sorry. Right after this app was submitted, [Spotify announced](http://devnew
 
 Maybe there will be some kind of new Jazztips app in the future. Meanwhile, check out [some great music]([Jazztips](http://jazzti.ps)).
 
-## Music please!
+### Music please!
+
+***
 
  * [Jazztips](http://jazzti.ps)
